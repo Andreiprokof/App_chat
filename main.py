@@ -42,7 +42,7 @@ def add_message(name, text):
 
 @app.route("/")
 def hello():
-    return "Hello, welcome to PythonMessenger2000"
+    return "Hello, welcome to PythonMessenger200"
 
 
 # 1. Display all chat messages: JSON
